@@ -1,7 +1,5 @@
 # Governance Control Map
 
-This control map connects the multi-cloud governance model to the operating disciplines that enforce it.
-
 ## Purpose
 
 Use this map to align policy, landing zones, compliance, drift detection, and architecture review under one operating view.

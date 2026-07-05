@@ -2,60 +2,26 @@
 
 ## Purpose
 
-The governance operating model defines how policy, review, exceptions, and evidence move through the organization.
+The governance operating model defines how policy, review, exceptions, and remediation are managed across the multi-cloud estate.
 
-## Roles
+## Operating Roles
 
-### Governance Lead
-
-- owns the overall operating model
-- maintains policy cadence
-- reports unresolved risks
-
-### Platform Owner
-
-- implements the baseline
-- remediates drift
-- maintains landing zone standards
-
-### Security and Compliance Owner
-
-- maps controls to requirements
-- reviews audit evidence
-- tracks exceptions
-
-### Architecture Review Board
-
-- approves significant design changes
-- reviews exceptions
-- enforces architecture standards
+- governance lead
+- platform owner
+- security owner
+- architecture reviewer
+- risk owner
 
 ## Operating Cadence
 
 - weekly drift review
 - monthly policy review
-- monthly compliance review
-- quarterly architecture review
-- quarterly maturity review
+- quarterly architecture and compliance review
+- executive exception review as needed
 
-## Decision Flow
+## Operating Rules
 
-1. Identify the issue or request.
-2. Determine the owning domain.
-3. Apply policy or control guidance.
-4. Capture the decision and evidence.
-5. Track the action to closure.
-
-## Example Operating Record
-
-| Item | Owner | Decision | Follow-Up |
-| --- | --- | --- | --- |
-| Policy exception | Governance Lead | Approved with remediation date | Track to closure |
-| Landing zone change | Platform Owner | Approved | Update baseline |
-| Control gap | Security Owner | Remediation required | Add to roadmap |
-
-## Related Artifacts
-
-- [Governance Control Map](../docs/governance-control-map.md)
-- [Policy Governance](../docs/policy-governance.md)
-- [Compliance Alignment](../docs/compliance-alignment.md)
+- every exception has an owner
+- every control has an evidence source
+- every review has a decision record
+- recurring issues are escalated

@@ -36,10 +36,18 @@ Cloud teams often adopt services faster than governance can keep up. That create
 - governance leaders
 - executive sponsors
 
-## How To Use This Repo
+## What Good Looks Like
 
-1. Start with the reference architecture.
-2. Review the governance control map.
-3. Use the operating model and ARB guidance.
-4. Apply the templates to policy, review, and risk work.
-5. Track progress with the maturity model.
+- governance is visible and repeatable
+- exceptions are approved and tracked
+- landing zones begin from a standard baseline
+- drift is detected early
+- evidence is ready when needed
+
+## Outputs
+
+- governance control map
+- operating model
+- maturity model
+- review templates
+- risk assessment template

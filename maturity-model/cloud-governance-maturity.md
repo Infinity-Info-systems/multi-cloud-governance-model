@@ -1,63 +1,31 @@
 # Cloud Governance Maturity
 
-## Purpose
+## Stage 1: Initial
 
-This maturity model helps teams assess how well cloud governance is embedded across policy, operations, and evidence.
+- governance is informal
+- policies are inconsistent
+- evidence is sparse
 
-## Maturity Levels
+## Stage 2: Managed
 
-### Level 1: Initial
+- basic standards exist
+- ownership is emerging
+- exceptions are tracked loosely
 
-- governance exists informally
-- controls are inconsistent
-- evidence is ad hoc
+## Stage 3: Defined
 
-### Level 2: Managed
+- governance processes are documented
+- controls are repeatable
+- reviews happen regularly
 
-- basic policies exist
-- some approvals are tracked
-- drift is visible in some areas
+## Stage 4: Measured
 
-### Level 3: Defined
+- controls are measured
+- drift and exceptions are reviewed on schedule
+- maturity trends are visible
 
-- policies and controls are standardized
-- landing zones are consistent
-- the board has a clear review path
+## Stage 5: Optimized
 
-### Level 4: Measured
-
-- controls are reported regularly
-- drift and exceptions are tracked by trend
-- evidence is reliable
-
-### Level 5: Optimized
-
-- governance is automated where possible
-- control coverage is broad
-- policy and evidence loops are continuously improved
-
-## Assessment Dimensions
-
-- policy governance
-- landing zone governance
-- architecture review
-- compliance alignment
-- drift detection
-- executive reporting
-
-## Example Assessment Summary
-
-| Dimension | Level |
-| --- | --- |
-| Policy Governance | 3 |
-| Landing Zones | 3 |
-| Architecture Review | 4 |
-| Compliance Alignment | 3 |
-| Drift Detection | 2 |
-| Executive Reporting | 3 |
-
-## Related Artifacts
-
-- [Governance Control Map](../docs/governance-control-map.md)
-- [Governance Checklist](../templates/governance-checklist.md)
-- [Cloud Risk Assessment](../templates/cloud-risk-assessment.md)
+- governance is continuously improved
+- automation supports enforcement
+- decisions are driven by evidence

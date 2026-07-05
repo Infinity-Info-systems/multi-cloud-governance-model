@@ -19,6 +19,15 @@ This repo provides a structured approach for:
 - compliance alignment
 - drift detection and remediation
 
+## How To Use This Repo
+
+1. Start with the framework overview.
+2. Review the governance control map.
+3. Review the reference architecture.
+4. Review the operating model and architecture review board guidance.
+5. Use the governance checklist and policy review template.
+6. Track maturity, drift, and risk with the related models and templates.
+
 ## Core Content
 
 - [Framework Overview](docs/framework-overview.md)
@@ -43,12 +52,3 @@ This repo provides a structured approach for:
 - [Bibliography](references/bibliography.md)
 - [SSRN Links](publications/ssrn-links.md)
 - [Conference Submissions](evidence/conference-submissions.md)
-
-## Start Here
-
-1. Read the framework overview.
-2. Review the governance control map.
-3. Review the reference architecture.
-4. Review the operating model and architecture review board guidance.
-5. Use the governance checklist and policy review template.
-6. Expand diagrams, examples, and evidence next.

@@ -44,6 +44,12 @@ Policy governance keeps multi-cloud environments consistent by defining the rule
 | Identity Baseline | Security | Quarterly | Security review board |
 | Network Segmentation | Platform Engineering | Semiannual | Architecture review board |
 
+## Operating Notes
+
+- keep policies short and explicit
+- link every policy to an owner and evidence source
+- retire outdated policies instead of layering on more exceptions
+
 ## Related Artifacts
 
 - [Governance Control Map](./governance-control-map.md)

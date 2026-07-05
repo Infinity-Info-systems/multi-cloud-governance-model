@@ -4,7 +4,7 @@
 
 This repository contains the core governance model for multi-cloud environments spanning AWS, Azure, GCP, and hybrid cloud platforms.
 
-It focuses on policy governance, landing zone standards, compliance alignment, architecture review, and drift detection.
+It turns cloud governance into an operating discipline rather than a one-time policy document. The model brings together policy standards, architecture review, landing zone design, drift detection, and compliance alignment.
 
 ## Why It Matters
 
@@ -24,16 +24,13 @@ This repo provides a structured approach for:
 - [Framework Overview](docs/framework-overview.md)
 - [Reference Architecture](docs/reference-architecture.md)
 - [Governance Control Map](docs/governance-control-map.md)
+- [Governance Operating Model](governance-models/governance-operating-model.md)
+- [Architecture Review Board](governance-models/architecture-review-board.md)
+- [Cloud Governance Maturity](maturity-model/cloud-governance-maturity.md)
 - [Policy Governance](docs/policy-governance.md)
 - [Compliance Alignment](docs/compliance-alignment.md)
 - [Drift Detection](docs/drift-detection.md)
 - [Cloud Landing Zones](docs/cloud-landing-zones.md)
-
-## Governance Assets
-
-- [Governance Operating Model](governance-models/governance-operating-model.md)
-- [Architecture Review Board](governance-models/architecture-review-board.md)
-- [Cloud Governance Maturity](maturity-model/cloud-governance-maturity.md)
 
 ## Templates
 
@@ -52,5 +49,6 @@ This repo provides a structured approach for:
 1. Read the framework overview.
 2. Review the governance control map.
 3. Review the reference architecture.
-4. Use the governance checklist and policy review template.
-5. Expand diagrams, examples, and evidence next.
+4. Review the operating model and architecture review board guidance.
+5. Use the governance checklist and policy review template.
+6. Expand diagrams, examples, and evidence next.

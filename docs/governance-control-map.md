@@ -107,3 +107,7 @@ Recommended cadence:
 3. Review drift and exceptions on a fixed cadence.
 4. Capture architecture decisions in a reusable log.
 5. Feed issues into the governance operating model.
+
+## Control Rule
+
+Every control domain should have a clear owner, a clear artifact, and a clear review path.

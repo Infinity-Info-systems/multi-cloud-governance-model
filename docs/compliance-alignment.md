@@ -43,3 +43,7 @@ Compliance alignment ensures cloud controls can be traced to regulatory or inter
 - [Governance Control Map](./governance-control-map.md)
 - [Cloud Risk Assessment](../templates/cloud-risk-assessment.md)
 - [Control Coverage Map](./governance-control-map.md)
+
+## Alignment Outcome
+
+Compliance alignment should help the team reuse one control model instead of maintaining separate evidence structures for every framework.

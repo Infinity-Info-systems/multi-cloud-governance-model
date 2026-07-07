@@ -3,6 +3,7 @@
 ## Purpose
 
 The multi-cloud governance model gives enterprises a repeatable way to govern cloud platforms across providers without losing consistency, accountability, or control.
+It gives the team a way to standardize decisions across cloud providers while still allowing well-governed exceptions.
 
 ## Problem Statement
 
@@ -43,6 +44,11 @@ Cloud teams often adopt services faster than governance can keep up. That create
 - landing zones begin from a standard baseline
 - drift is detected early
 - evidence is ready when needed
+- governance decisions are traceable across providers
+
+## Practical Use
+
+Use this framework when you need one governance model that works across AWS, Azure, GCP, and hybrid environments.
 
 ## Outputs
 

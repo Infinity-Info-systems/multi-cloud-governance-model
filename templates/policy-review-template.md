@@ -13,3 +13,8 @@
 - is the policy being enforced?
 - do exceptions need updating?
 - is evidence available?
+- is the policy consistent across providers?
+
+## Review Rule
+
+Policy reviews should lead to a clear decision: keep, revise, retire, or escalate.

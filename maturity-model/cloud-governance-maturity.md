@@ -29,3 +29,7 @@
 - governance is continuously improved
 - automation supports enforcement
 - decisions are driven by evidence
+
+## Use
+
+Use this model to decide whether governance is still ad hoc or already operating as a measurable discipline.

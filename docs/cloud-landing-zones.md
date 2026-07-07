@@ -37,6 +37,7 @@ Cloud landing zones define the approved foundation for workloads so that identit
 - policy enforcement
 - approval paths
 - exception handling
+- baseline evidence capture
 
 ## Example Landing Zone Checklist
 
@@ -52,3 +53,7 @@ Cloud landing zones define the approved foundation for workloads so that identit
 - [Governance Control Map](./governance-control-map.md)
 - [Governance Checklist](../templates/governance-checklist.md)
 - [Policy Review Template](../templates/policy-review-template.md)
+
+## Landing Zone Outcome
+
+Landing zones should make it easy to start new workloads from a controlled baseline instead of creating exceptions first and controls later.

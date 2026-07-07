@@ -35,6 +35,11 @@ Drift detection helps governance teams spot when cloud environments move away fr
 - keep drift findings simple and actionable
 - link each finding to a policy or control
 - report repeated drift patterns to governance leaders
+- classify drift by provider and control domain
+
+## Use
+
+Use this page to keep the team focused on how environments move away from the approved baseline over time.
 
 ## Related Artifacts
 

@@ -25,3 +25,8 @@ The governance operating model defines how policy, review, exceptions, and remed
 - every control has an evidence source
 - every review has a decision record
 - recurring issues are escalated
+- governance cadence is predictable
+
+## Operating Outcome
+
+The operating model should make governance repeatable, visible, and easy to review across providers.

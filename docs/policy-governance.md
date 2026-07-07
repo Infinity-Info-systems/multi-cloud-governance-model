@@ -49,6 +49,11 @@ Policy governance keeps multi-cloud environments consistent by defining the rule
 - keep policies short and explicit
 - link every policy to an owner and evidence source
 - retire outdated policies instead of layering on more exceptions
+- keep policy names consistent across providers
+
+## Outcome
+
+Policy governance should make it obvious what is allowed, who approves changes, and how exceptions are tracked.
 
 ## Related Artifacts
 

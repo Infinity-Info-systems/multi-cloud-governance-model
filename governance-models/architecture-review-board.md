@@ -17,3 +17,7 @@ The architecture review board reviews significant cloud and multi-cloud decision
 - approved with conditions
 - rejected
 - more information required
+
+## Board Rule
+
+The board should make architecture decisions consistent across cloud providers, not re-invent the review standard each time.

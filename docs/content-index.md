@@ -3,6 +3,7 @@
 ## Purpose
 
 This index organizes the repo into a simple front door for governance, architecture, compliance, and operational control content.
+Use it to move from the framework to the specific governance artifact you need.
 
 ## Entry Points
 
@@ -32,6 +33,17 @@ This index organizes the repo into a simple front door for governance, architect
 - [SSRN Links](../publications/ssrn-links.md)
 - [Bibliography](../references/bibliography.md)
 
+## Reading Order
+
+1. Framework overview
+2. Governance control map
+3. Reference architecture
+4. Policy governance
+5. Compliance alignment
+6. Drift detection and landing zones
+7. Operating model and templates
+
 ## Shared Direction
 
 Use the same section structure as `MCGR-Framework` so the repositories feel like one system.
+Keep each page short enough to review and explicit enough to support evidence-based decisions.

@@ -5,6 +5,7 @@
 This repository contains the core governance model for multi-cloud environments spanning AWS, Azure, GCP, and hybrid cloud platforms.
 
 It turns cloud governance into an operating discipline rather than a one-time policy document. The model brings together policy standards, architecture review, landing zone design, drift detection, and compliance alignment.
+It is intended to help teams run cloud governance in a repeatable and evidence-based way.
 
 ## Why It Matters
 
@@ -18,6 +19,17 @@ This repo provides a structured approach for:
 - cloud landing zone governance
 - compliance alignment
 - drift detection and remediation
+- evidence traceability
+- control ownership clarity
+- governance reporting
+
+## Content Model
+
+This repository works best when the pages are grouped into three layers:
+
+- framework and control framing
+- governance, policy, and review models
+- templates, maturity, and evidence references
 
 ## How To Use This Repo
 
@@ -27,6 +39,7 @@ This repo provides a structured approach for:
 4. Review the operating model and architecture review board guidance.
 5. Use the governance checklist and policy review template.
 6. Track maturity, drift, and risk with the related models and templates.
+7. Keep terminology consistent across cloud providers and all supporting artifacts.
 
 ## Core Content
 
@@ -46,6 +59,10 @@ This repo provides a structured approach for:
 - [Governance Checklist](templates/governance-checklist.md)
 - [Policy Review Template](templates/policy-review-template.md)
 - [Cloud Risk Assessment](templates/cloud-risk-assessment.md)
+
+## Operating Principle
+
+Governance should reduce drift, keep exceptions visible, and make control ownership obvious.
 
 ## References
 

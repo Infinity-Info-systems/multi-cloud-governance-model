@@ -50,6 +50,15 @@ Cloud teams often adopt services faster than governance can keep up. That create
 
 Use this framework when you need one governance model that works across AWS, Azure, GCP, and hybrid environments.
 
+## How To Read It
+
+Start with the framework overview, then move into the reference architecture and control map.
+That sequence keeps the focus on how the model works before getting into evidence and exceptions.
+
+## Result
+
+The framework helps teams govern multi-cloud environments with one baseline, clear ownership, and a predictable review path.
+
 ## Outputs
 
 - governance control map

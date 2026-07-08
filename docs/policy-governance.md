@@ -3,6 +3,7 @@
 ## Purpose
 
 Policy governance keeps multi-cloud environments consistent by defining the rules, exceptions, and approvals that guide platform behavior.
+It keeps the baseline understandable across providers while still allowing local differences where needed.
 
 ## Policy Domains
 
@@ -51,9 +52,14 @@ Policy governance keeps multi-cloud environments consistent by defining the rule
 - retire outdated policies instead of layering on more exceptions
 - keep policy names consistent across providers
 
+## Use
+
+Use this page to describe how policy is applied consistently across providers without losing accountability.
+
 ## Outcome
 
 Policy governance should make it obvious what is allowed, who approves changes, and how exceptions are tracked.
+It should also make it clear which policies are universal and which are provider-specific.
 
 ## Related Artifacts
 

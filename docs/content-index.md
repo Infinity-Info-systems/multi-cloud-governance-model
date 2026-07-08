@@ -4,6 +4,7 @@
 
 This index organizes the repo into a simple front door for governance, architecture, compliance, and operational control content.
 Use it to move from the framework to the specific governance artifact you need.
+The order is arranged so readers move from governance framing into controls, then into the artifacts that enforce the model.
 
 ## Entry Points
 
@@ -47,3 +48,4 @@ Use it to move from the framework to the specific governance artifact you need.
 
 Use the same section structure as `MCGR-Framework` so the repositories feel like one system.
 Keep each page short enough to review and explicit enough to support evidence-based decisions.
+If a page does not help define a baseline, explain an exception, or support evidence, move that detail to a more specific artifact.

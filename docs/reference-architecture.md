@@ -3,6 +3,7 @@
 ## Purpose
 
 This reference architecture shows how governance flows across cloud landing zones, policy controls, review processes, and evidence capture.
+It provides the structural view that makes the governance model repeatable across cloud providers.
 
 ## Architecture Layers
 
@@ -56,6 +57,10 @@ This reference architecture shows how governance flows across cloud landing zone
 4. Controls are mapped to evidence.
 5. Drift and exceptions are monitored over time.
 
+## Use
+
+Use this page to explain how policy, controls, and review decisions connect in the operating model.
+
 ## Related Artifacts
 
 - [Governance Control Map](./governance-control-map.md)
@@ -63,3 +68,7 @@ This reference architecture shows how governance flows across cloud landing zone
 - [Policy Governance](./policy-governance.md)
 - [Compliance Alignment](./compliance-alignment.md)
 - [Drift Detection](./drift-detection.md)
+
+## Outcome
+
+The reference architecture should make it obvious where governance decisions happen and how evidence is captured.

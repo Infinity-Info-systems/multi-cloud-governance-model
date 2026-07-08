@@ -21,6 +21,14 @@ Evidence:
 - approval history
 - exception log
 
+### Control Signals
+
+| Signal | What It Shows |
+| --- | --- |
+| Approved policy | The rule is authoritative |
+| Exception log | The rule has controlled deviations |
+| Version history | The rule is maintained over time |
+
 ### 2. Cloud Landing Zones
 
 Controls:
@@ -35,6 +43,14 @@ Evidence:
 - landing zone blueprint
 - landing zone checklist
 - baseline configuration output
+
+### Control Signals
+
+| Signal | What It Shows |
+| --- | --- |
+| Baseline blueprint | The standard exists |
+| Config output | The standard is being enforced |
+| Checklist completion | The standard is being reviewed |
 
 ### 3. Compliance Alignment
 
@@ -51,6 +67,14 @@ Evidence:
 - audit evidence pack
 - control attestation log
 
+### Control Signals
+
+| Signal | What It Shows |
+| --- | --- |
+| Control mapping | The obligation is understood |
+| Evidence pack | The obligation can be proven |
+| Attestation log | Ownership is explicit |
+
 ### 4. Drift Detection
 
 Controls:
@@ -66,6 +90,14 @@ Evidence:
 - remediation backlog
 - closure history
 
+### Control Signals
+
+| Signal | What It Shows |
+| --- | --- |
+| Drift report | The issue is visible |
+| Backlog item | A fix exists |
+| Closure history | The fix was completed |
+
 ### 5. Architecture Review
 
 Controls:
@@ -80,6 +112,14 @@ Evidence:
 - review record
 - decision log
 - architecture sign-off
+
+### Control Signals
+
+| Signal | What It Shows |
+| --- | --- |
+| Review record | The decision was reviewed |
+| Decision log | The rationale was captured |
+| Sign-off | Approval is traceable |
 
 ## Operating Rhythm
 
@@ -99,6 +139,16 @@ Recommended cadence:
 | Compliance Alignment | Compliance matrix | Cloud risk assessment |
 | Drift Detection | Drift report | Remediation log |
 | Architecture Review | Review record | ARB decision log |
+
+## Priority Matrix
+
+| Domain | Typical Risk If Weak | Suggested Priority |
+| --- | --- | --- |
+| Policy Governance | Inconsistent decisions | High |
+| Cloud Landing Zones | Uncontrolled variance | High |
+| Compliance Alignment | Audit exposure | High |
+| Drift Detection | Silent configuration drift | Medium to High |
+| Architecture Review | Design debt and rework | Medium |
 
 ## Recommended Use
 

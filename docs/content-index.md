@@ -6,6 +6,17 @@ This index organizes the repo into a simple front door for governance, architect
 Use it to move from the framework to the specific governance artifact you need.
 The order is arranged so readers move from governance framing into controls, then into the artifacts that enforce the model.
 
+## Recommended Reading Path
+
+| Step | Page | Why It Matters |
+| --- | --- | --- |
+| 1 | Framework Overview | Establish the operating model |
+| 2 | Governance Control Map | See the control domains and evidence types |
+| 3 | Reference Architecture | Understand the target platform pattern |
+| 4 | Policy Governance | Review policy handling and exceptions |
+| 5 | Compliance Alignment | Map the model to audit and control evidence |
+| 6 | Drift Detection | Track variance and remediation |
+
 ## Entry Points
 
 - [Framework Overview](./framework-overview.md)

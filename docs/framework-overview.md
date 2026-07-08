@@ -5,6 +5,17 @@
 The multi-cloud governance model gives enterprises a repeatable way to govern cloud platforms across providers without losing consistency, accountability, or control.
 It gives the team a way to standardize decisions across cloud providers while still allowing well-governed exceptions.
 
+## Operating Flow
+
+```mermaid
+flowchart LR
+    A["Policy Baseline"] --> B["Landing Zones"]
+    B --> C["Architecture Review"]
+    C --> D["Drift Detection"]
+    D --> E["Compliance Evidence"]
+    E --> F["Governance Reporting"]
+```
+
 ## Problem Statement
 
 Cloud teams often adopt services faster than governance can keep up. That creates policy drift, fragmented landing zones, inconsistent review decisions, and gaps in compliance evidence.
@@ -27,6 +38,16 @@ Cloud teams often adopt services faster than governance can keep up. That create
 5. Compliance alignment
 6. Control ownership
 7. Maturity tracking
+
+## Governance Layers
+
+| Layer | Question It Answers | Typical Artifact |
+| --- | --- | --- |
+| Policy | What is allowed? | Policy register |
+| Design | What is approved? | Architecture review record |
+| Control | What must be enforced? | Landing zone baseline |
+| Evidence | What proves it happened? | Audit pack or control attestation |
+| Improvement | What changes next? | Remediation backlog |
 
 ## Intended Users
 
@@ -66,3 +87,7 @@ The framework helps teams govern multi-cloud environments with one baseline, cle
 - maturity model
 - review templates
 - risk assessment template
+
+## Decision Rule
+
+If a cloud pattern cannot be governed, evidenced, and reviewed with the same baseline logic, it should not be treated as standard.

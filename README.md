@@ -79,6 +79,12 @@ It helps answer:
 - What needs exception handling?
 - How do we keep evidence and approvals consistent?
 
+## Codebase Direction
+
+- use `src/` as the policy and control registry layer
+- keep Markdown as the narrative and operating model layer
+- use the registry outputs to power dashboards or a future governance console
+
 ## References
 
 - [Bibliography](references/bibliography.md)
